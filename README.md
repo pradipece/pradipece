@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradip Nath</h1>
-<h3 align="center">A passionate Data Science and we developer</h3>
+<h3 align="center">A passionate Data Science and Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipece&label=Profile%20views&color=0e75b6&style=flat" alt="pradipece" /> </p>
 
