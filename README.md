@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Science and Machine learning**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Cloud Computing and Virtualisation**
 
 - 👯 I’m looking to collaborate on **Automation**
 
