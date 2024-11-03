@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 💬 Ask me about **Python, Matlab, AWS**
+- 💬 Ask me about **Python, Matlab, DevOps, AWS**
 
 - 📫 How to reach me **pradipnathece@gmail.com**
 
