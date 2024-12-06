@@ -30,3 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradipece&" alt="pradipece" /></p>
 
+
+[snake_gif](https://github.com/pradipece/pradipece/blob/output/github-snake-dark.svg)
