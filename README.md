@@ -26,6 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipece&show_icons=true&locale=en&layout=compact" alt="pradipece" /></p>
 
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipece&layout=compact)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradipece&show_icons=true&locale=en" alt="pradipece" /></p>
 
 ![Pradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradipece&show_icons=true&theme=transparent)
