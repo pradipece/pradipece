@@ -27,6 +27,8 @@
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipece&layout=compact)
 ![Pradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradipece&show_icons=true&theme=transparent)
 
+<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=pradipece&show_icons=true&theme=transparent" alt="pradipece" /> </a> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradipece&" alt="pradipece" /></p>
 
 
