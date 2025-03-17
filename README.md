@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub page!</h1>
 <h3 align="center">A passionate Automation Engineering, Data Science, Machine Learning, and Software Development</h3>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipece&label=Profile%20views&color=0e75b6&style=flat" alt="pradipece" /> </p>
