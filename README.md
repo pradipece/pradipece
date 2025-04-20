@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Software Development, Automation, Data Science**
+- 🔭 I’m currently working on **Automation Engineer, Software Engineer, System Engineer, and Data Science**
 
 - 🌱 I’m currently learning **Cloud Computing and Virtualisation**
 
 - 👯 I’m looking to collaborate on **Automation**
 
-- 🤝 I’m looking for help with **Machine learning**
+- 🤝 I’m looking for help with **Automation Engineering and Software Development**
 
-- 💬 Ask me about **Python, Matlab, C++, DevOps, AWS**
+- 💬 Ask me about **Python, Matlab, C\C++, DevOps**
 
 - 📫 How to reach me **pradipnathece@gmail.com**
 
