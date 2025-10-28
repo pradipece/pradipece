@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub page!</h1>
-<h3 align="center">A passionate Automation Engineering, Data Science, Machine Learning, and Software Development</h3>
+<h3 align="center">A passionate Electronics Engineer, Automation Engineer and Software Development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Automation Engineer, Software Engineer, System Engineer, and Data Science**
 
-- 🌱 I’m currently learning **Cloud Computing and Virtualisation**
+- 🌱 I’m currently learning **ASP.NET, C# and DevOps**
 
-- 👯 I’m looking to collaborate on **Automation**
+- 👯 I’m looking to collaborate on **Electronics, Automation, and System**
 
 - 🤝 I’m looking for help with **Automation Engineering and Software Development**
 
