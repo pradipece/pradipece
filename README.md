@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Automation Engineer, Software Engineer, System Engineer, and Data Science**
 
-- 🌱 I’m currently learning **ASP.NET, C# and DevOps**
+- 🌱 I’m currently learning **Python and DevOps**
 
 - 👯 I’m looking to collaborate on **Electronics, Automation, and System**
 
