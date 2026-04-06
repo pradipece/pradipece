@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Automation Engineering and Software Development**
 
-- 💬 Ask me about **Python, Matlab, C\C++, DevOps**
+- 💬 Ask me about **Python, Matlab, C\C++**
 
 - 📫 How to reach me **pradipnathece@gmail.com**
 
