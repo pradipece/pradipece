@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Welcome to my GitHub page!</h1>
+<h1 align="center">Hi 👋 Welcome to my GitHub</h1>
 
 # 💫 About Me:
 Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building secure, scalable, and high-performance System infrastructure.<br><br>🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server<br>🔹 Networking: TCP/IP, Routing, Switching, Network Security<br>🔹 Cloud & DevOps: AWS, Azure, Docker, Git<br>🔹 Automation & Scripting: Python, Bash<br>
@@ -6,8 +6,8 @@ Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building
 <b> 🌱 Currently Learning: </b> <br>
 Cloud-native architecture & DevOps (CI/CD, Kubernetes)
 
-<b> 🎯 Goal </b> <br>
-To design reliable infrastructure and grow as a Cloud & Infrastructure Engineer
+<b> 🎯 Goal: </b> <br>
+To design reliable infrastructure and grow as a Cloud & System Software Engineer
 
 
 # 💻 Tech Stack:
