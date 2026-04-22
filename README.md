@@ -7,7 +7,7 @@ Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building
 🔹 Networking: TCP/IP, Routing, Switching, Network Security<br>
 🔹 Cloud & DevOps: AWS, Azure, Docker, Git, GitHub<br>
 🔹 Automation & Scripting: Python, MATLAB, Bash<br>
-🔹 Backend development: Django, Flask, REST APIs<br>
+🔹 Backend development: Django, Flask, REST APIs, SQL<br>
 
 <b> 🛠️ Currently Learning: </b> <br>
 Cloud-native architecture & DevOps (CI/CD, Kubernetes)
