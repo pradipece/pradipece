@@ -3,12 +3,11 @@
 
 # 💫 About Me:
 Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building secure, scalable, and high-performance System infrastructure.<br>
- <dl> 
-  <dd>🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server
-  <dd>🔹 Networking: TCP/IP, Routing, Switching, Network Security
-  <dd>🔹 Cloud & DevOps: AWS, Azure, Docker, Git, GitHub
-  <dd>🔹 Automation & Scripting: Python, MATLAB, Bash
-  <dd>🔹 Backend development: Django, Flask, REST APIs, SQL
+ --🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server
+ 🔹 Networking: TCP/IP, Routing, Switching, Network Security
+ 🔹 Cloud & DevOps: AWS, Azure, Docker, Git, GitHub
+ 🔹 Automation & Scripting: Python, MATLAB, Bash
+ 🔹 Backend development: Django, Flask, REST APIs, SQL
  </dl>
 <b> 🛠️ Currently Learning: </b> <br>
   Cloud-native architecture & DevOps (CI/CD, Kubernetes)
