@@ -3,13 +3,13 @@
 
 # 💫 About Me:
 Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building secure, scalable, and high-performance System infrastructure.<br>
-<dl>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
   <dd>🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server</dd>
   <dd>🔹 Networking: TCP/IP, Routing, Switching, Network Security</dd>
   <dd>🔹 Cloud & DevOps: AWS, Azure, Docker, Git, GitHub</dd>
   <dd>🔹 Automation & Scripting: Python, MATLAB, Bash</dd>
   <dd>🔹 Backend development: Django, Flask, REST APIs, SQL</dd>
-</dl>
+</blockquote>
 
 <b> 🛠️ Currently Learning: </b> <br>
   Cloud-native architecture & DevOps (CI/CD, Kubernetes)
