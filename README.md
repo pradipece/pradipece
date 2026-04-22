@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm  Pradip Nath</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pradipece&label=Profile%20views&color=0e75b6&style=flat" alt="pradipece" /> </p>
+<h1 align="center">Hi 👋 I'm  Pradip Nath</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=pradipece&label=Profile%20views&color=0e75b6&style=flat" alt="pradipece" /> </p>
+
 # 💫 About Me:
 Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building secure, scalable, and high-performance System infrastructure.<br><br>🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server<br>🔹 Networking: TCP/IP, Routing, Switching, Network Security<br>🔹 Cloud & DevOps: AWS, Azure, Docker, Git<br>🔹 Automation & Scripting: Python, Bash<br>
 
