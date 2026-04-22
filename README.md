@@ -19,4 +19,4 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipece&label=Profile%20views&color=0e75b6&style=flat" alt="pradipece" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pradipece&label=Profile%20views&color=0e75b6&style=flat" alt="pradipece" /> </p>
