@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Hi, I’m Pradip Nath — a System, Network & Cloud Engineer focused on building secure, scalable, and high-performance System infrastructure.<br>
- --🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server
+ -- 🔹 Systems: Linux (Ubuntu, Red Hat), Windows Server
  🔹 Networking: TCP/IP, Routing, Switching, Network Security
  🔹 Cloud & DevOps: AWS, Azure, Docker, Git, GitHub
  🔹 Automation & Scripting: Python, MATLAB, Bash
